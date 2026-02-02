@@ -1,8 +1,12 @@
 TRY HERE -> https://whoispaying.netlify.app/
 
 
+Users will start with this initial data 
+
 <img width="951" height="576" alt="Screenshot 2026-02-01 at 12 55 00 PM" src="https://github.com/user-attachments/assets/af25c6c5-86dd-4392-a9b1-090e5f88277c" />
 
+
+When you click on a frir
 
 <img width="1018" height="602" alt="Screenshot 2026-02-01 at 12 55 11 PM" src="https://github.com/user-attachments/assets/d9964f45-131f-4e95-b481-05214c1e3313" />
 
@@ -23,3 +27,10 @@ TRY HERE -> https://whoispaying.netlify.app/
 
 
 <img width="770" height="410" alt="Screenshot 2026-02-01 at 12 57 23 PM" src="https://github.com/user-attachments/assets/aee777bd-2efc-4717-af91-af59cd85aef7" />
+
+
+<img width="1038" height="514" alt="Screenshot 2026-02-02 at 11 53 49 AM" src="https://github.com/user-attachments/assets/b4368917-0883-4b2b-b1eb-175e7e9e284c" />
+
+
+<img width="896" height="443" alt="Screenshot 2026-02-02 at 11 54 44 AM" src="https://github.com/user-attachments/assets/7e59c736-5e8d-4dcc-8212-0bed767890f4" />
+
